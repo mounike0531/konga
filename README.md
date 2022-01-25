@@ -1,6 +1,7 @@
 # konga
 #kfold
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mltut.com%2Fk-fold-cross-validation-in-machine-learning-how-does-k-fold-work%2F&psig=AOvVaw3_xt09XOE2VHelqay_UBzU&ust=1643171018714000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjWz5iHzPUCFQAAAAAdAAAAABAK
+
+![cross-validation](https://user-images.githubusercontent.com/98373492/150910838-f159a99a-3c45-4336-b70f-65bc588bf94a.png)
 
 ![1_chD302ssE0O62wreunGp4A](https://user-images.githubusercontent.com/98373492/150910401-47c6b215-68fa-48f5-bd0f-fe5303513438.jpeg)
 
